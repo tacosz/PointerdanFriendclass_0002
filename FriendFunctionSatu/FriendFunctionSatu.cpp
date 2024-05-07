@@ -18,5 +18,7 @@ void setNama(mahasiswa &a, string b)
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    mahasiswa joko;
+    setNama(joko, "kairi kumar");
+    return 0;
 }
