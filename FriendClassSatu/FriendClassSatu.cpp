@@ -13,6 +13,14 @@ public:
     friend class siswa;
 };
 
+class siswa
+{
+private:
+    int id;
+};
+
+
+
 int main()
 {
     
